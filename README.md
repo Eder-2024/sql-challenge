@@ -1,8 +1,4 @@
 # sql-challenge
-Got it! Here's the updated version with the backup detail included:
-
----
-
 # Project Overview 🚀
 
 This project includes SQL queries to analyze employee and department data, focusing on various metrics like salary, department assignments, and employee roles. The database was created using **PostgreSQL**, and the **Entity Relationship Diagram (ERD)** was created using [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/).
