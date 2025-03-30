@@ -11,14 +11,14 @@ This project includes SQL queries to analyze employee and department data, focus
 
 ## Query Results 📊
 
-1. **Total Employees in Departments**: 300,024 rows | ⏱️ 0.761s  
-2. **Employees and Titles**: 36,150 rows | ⏱️ 0.295s  
-3. **Department Managers**: 24 rows | ⏱️ 0.083s  
-4. **Salary Information**: 331,603 rows | ⏱️ 0.892s  
-5. **Senior Engineers & Salary**: 20 rows | ⏱️ 0.275s  
-6. **Average Salary by Department**: 52,245 rows | ⏱️ 0.363s  
-7. **Employees in Multiple Departments**: 137,952 rows | ⏱️ 0.509s  
-8. **Department Overview**: 1,638 rows | ⏱️ 0.312s
+1. **Total Employees in Departments**: 300,024 rows
+2. **Employees and Titles**: 36,150 rows  
+3. **Department Managers**: 24 rows  
+4. **Salary Information**: 331,603 rows
+5. **Senior Engineers & Salary**: 20 rows  
+6. **Average Salary by Department**: 52,245 rows  
+7. **Employees in Multiple Departments**: 137,952 rows
+8. **Department Overview**: 1,638 rows
 
 ---
 
@@ -42,7 +42,7 @@ This project includes SQL queries to analyze employee and department data, focus
 
 ## Technologies 💻
 
-- **SQL** for querying and manipulation  
+- **pgAdmin4** for querying and manipulation  
 - **PostgreSQL** for database execution  
 - **[Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/)** for creating the Entity Relationship Diagram (ERD)
 
